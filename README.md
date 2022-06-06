@@ -3,3 +3,5 @@
 <hr>
 <h2>Tutorial series.</h2>
 <a href = "https://www.shadertoy.com/view/fdKcRR">First Shader</a>
+<a href = "https://www.shadertoy.com/view/7sGyR1">Circle Shader</a>
+
